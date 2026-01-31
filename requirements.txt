@@ -1,8 +1,0 @@
-Flask
-flask-cors
-flask-sqlalchemy
-sqlalchemy-utils
-psycopg2-binary
-pandas
-pdfplumber
-google-generativeai
